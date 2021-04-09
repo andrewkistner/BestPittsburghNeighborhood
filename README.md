@@ -4,8 +4,8 @@ This repository is for the final project for Pitt's Big Ideas in Computing and I
 * --Team Name--
 * Team Members:
   * Andrew Kistner - ank243@pitt.edu
-  * Camden Callahan
-  * Carter Keith
+  * Camden Callahan - cjc184@pitt.edu
+  * Carter Keith - cpk29@pitt.edu
 
 * The first dataset we used to determine the best Pittsburgh neighborhood was data from the Pittsburgh police on all arrests in the Pittsburgh area. The link to this dataset can be found [here](https://data.wprdc.org/dataset/arrest-data).
 * --Here we write an abstract detailing our datasets and metrics to determine the best neighborhood.--
