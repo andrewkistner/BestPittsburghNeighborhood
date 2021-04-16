@@ -8,4 +8,5 @@ This repository is for the final project for Pitt's Big Ideas in Computing and I
   * Carter Keith - cpk29@pitt.edu
 
 * The first dataset we used to determine the best Pittsburgh neighborhood was data from the Pittsburgh police on all arrests in the Pittsburgh area. The link to this dataset can be found [here](https://data.wprdc.org/dataset/arrest-data).
+* The second dataset we used contains data that shows the different pieces of playground equipment in the neighborhoods across Pittsburgh. The link to this dataset can be found [here](https://data.wprdc.org/dataset/playground-equipment).
 * --Here we write an abstract detailing our datasets and metrics to determine the best neighborhood.--
