@@ -12,5 +12,5 @@ This repository is for the final project for Pitt's Big Ideas in Computing and I
 
 * When asked what the best neighborhood is in Pittsburgh, our data points straight to Regent Square. We were able to determine this since our metric of arrest numbers was lower for Regent Square and our metric of playground equipment was fairly high for Regent Square.
 
-* --Here we write an abstract detailing our datasets and metrics to determine the best neighborhood.--
+
 
